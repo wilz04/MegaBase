@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Forms", "Forms\Forms.vbproj", "{4A53ABB1-B6E7-4727-BBA0-B2C49BD26134}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Reports", "Reports\Reports.vbproj", "{730B1A61-8EC9-4956-AFD2-141850115920}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4A53ABB1-B6E7-4727-BBA0-B2C49BD26134}.Debug.ActiveCfg = Debug|.NET
+		{4A53ABB1-B6E7-4727-BBA0-B2C49BD26134}.Debug.Build.0 = Debug|.NET
+		{4A53ABB1-B6E7-4727-BBA0-B2C49BD26134}.Release.ActiveCfg = Release|.NET
+		{4A53ABB1-B6E7-4727-BBA0-B2C49BD26134}.Release.Build.0 = Release|.NET
+		{730B1A61-8EC9-4956-AFD2-141850115920}.Debug.ActiveCfg = Debug|.NET
+		{730B1A61-8EC9-4956-AFD2-141850115920}.Debug.Build.0 = Debug|.NET
+		{730B1A61-8EC9-4956-AFD2-141850115920}.Release.ActiveCfg = Release|.NET
+		{730B1A61-8EC9-4956-AFD2-141850115920}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
